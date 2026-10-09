@@ -5,8 +5,8 @@ Bài 6 – LAB 5 | Phần mềm quản lý tour du lịch cho công ty Du lịch
 C# SQL Server Visual Studio
 
 👩‍🎓 Thông tin sinh viên
-Họ và tên	Đoàn Ngọc Phương Thanh
-MSSV	1250080174
+Họ và tên	Nhan Anh Thư
+MSSV	1250080190
 Lớp	12_ĐH_CNPM2
 📖 Giới thiệu
 Công ty du lịch Văn Hóa Việt TP.HCM cần tin học hóa việc quản lý thông tin tour và tình hình đăng ký du lịch của khách. Hệ thống hỗ trợ:
