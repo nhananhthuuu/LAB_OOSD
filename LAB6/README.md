@@ -159,7 +159,7 @@ src/QuanLyBenhAn/QuanLyBenhAn.sln
 
 ## 📚 Tài liệu tham khảo
 
-- Đề bài: *Bài 5 – Quản lý hồ sơ bệnh án của bệnh nhân*, HUTECH
+- Đề bài: *Bài 5 – Quản lý hồ sơ bệnh án của bệnh nhân*
 - [UML Diagrams](https://www.uml-diagrams.org/)
 - [PlantUML Documentation](https://plantuml.com/)
 
