@@ -3,7 +3,6 @@
 # 🏥 Quản lý Hồ sơ Bệnh án của Bệnh nhân
 
 **Lab 6 · Phân tích thiết kế hướng đối tượng**
-Đại học Công nghệ TP.HCM (HUTECH)
 
 ![UML](https://img.shields.io/badge/UML-StarUML%20%7C%20draw.io-blue)
 ![PlantUML](https://img.shields.io/badge/Diagram-PlantUML-orange)
@@ -28,10 +27,9 @@
 
 | | |
 |---|---|
-| **Họ và tên** | [Họ tên] |
-| **MSSV** | [MSSV] |
-| **Lớp** | [Lớp] |
-| **Nhóm TH** | [Nhóm] |
+| **Họ và tên** | [Nhan Anh Thư] |
+| **MSSV** | [MSSV: 1250080190] |
+| **Lớp** | [Lớp: CNPM2] |
 | **Giảng viên** | Huỳnh Phạm Trọng |
 
 ## 🎯 Mục tiêu
@@ -61,7 +59,7 @@
 │   ├── usecase_phan_ra.drawio
 │   ├── activity.drawio
 │   ├── sequence_lap_toa_thuoc.puml
-│   └── images/                             # Ảnh PNG xuất từ các sơ đồ
+│   └── images/                            
 ├── database/
 │   └── script.sql
 └── src/
@@ -169,6 +167,6 @@ src/QuanLyBenhAn/QuanLyBenhAn.sln
 
 <div align="center">
 
-Made with ☕ by **[Họ tên]** · HUTECH · HK1 2026-2027
+
 
 </div>
